@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "title": "Pizza Margherita",
+    "description": "Classic Italian pizza with tomato, mozzarella, and basil.",
+    "price": 12.99,
+    "image": "1.png"
+  },
+  {
+    "id": "2",
+    "title": "Cheeseburger",
+    "description": "Juicy beef patty with cheese, lettuce, and tomato.",
+    "price": 9.49,
+    "image": "2.png"
+  },
+  {
+    "id": "3",
+    "title": "Sushi Rolls",
+    "description": "Assorted salmon, tuna, and avocado rolls.",
+    "price": 15.99,
+    "image": "3.png"
+  },
+  {
+    "id": "4",
+    "title": "Pasta Carbonara",
+    "description": "Creamy pasta with bacon, egg, and parmesan.",
+    "price": "13.52",
+    "image": "4.png"
+  },
+  {
+    "id": "5",
+    "title": "Tacos",
+    "description": "Mexican tacos with beef, lettuce, and salsa.",
+    "price": 8.99,
+    "image": "5.png"
+  },
+  {
+    "id": "6",
+    "title": "Shawarma",
+    "description": "Middle Eastern wrap with chicken, garlic sauce, and pickles.",
+    "price": 7.99,
+    "image": "6.png"
+  },
+  {
+    "id": "1755810160601",
+    "title": "ss",
+    "description": "sfdsdf",
+    "price": 33.2,
+    "image": "7.png"
+  }
+]

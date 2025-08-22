@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1755702941831",
+    "email": "aaa@gmail.com",
+    "password": "$2b$12$0KNvXnNgA53nbuCacTvoK.2WZf4GneDH2iEmkqPgcH6bU/aD7Ezdi"
+  },
+  {
+    "id": "1755723296187",
+    "email": "test1@test.com",
+    "password": "$2b$12$CeJXtZI37dvBfeIsDp8FnerZjlrgttXsAsh3TnpiFRSXoh.Adyh1."
+  },
+  {
+    "id": "1755725735315",
+    "email": "test2@test.com",
+    "password": "$2b$12$Li0fXvkcjReHzAFuvkRU7e1fiIToxtKNM60pp2BQcF94Xic4mI4aq"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "path": "1.png",
+    "caption": "Pizza Margherita"
+  },
+  {
+    "path": "2.png",
+    "caption": "Cheeseburger"
+  },
+  {
+    "path": "3.png",
+    "caption": "Sushi Rolls"
+  },
+  {
+    "path": "4.png",
+    "caption": "Pasta Carbonara"
+  },
+  {
+    "path": "5.png",
+    "caption": "Tacos"
+  }
+  ,
+  {
+    "path": "6.png",
+    "caption": "Shawarma"
+  }
+  ,
+  {
+    "path": "7.png",
+    "caption": "Pad Thai"
+  }
+]

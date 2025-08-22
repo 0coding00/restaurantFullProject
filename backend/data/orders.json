@@ -1,0 +1,21 @@
+[
+  {
+    "items": [
+      {
+        "id": "5",
+        "title": "Tacos",
+        "price": 8.99,
+        "quantity": 2,
+        "totalPrice": 17.98
+      },
+      {
+        "id": "6",
+        "title": "Shawarma",
+        "price": 7.99,
+        "quantity": 2,
+        "totalPrice": 15.979999999999999
+      }
+    ],
+    "totalQuantity": 4
+  }
+]
